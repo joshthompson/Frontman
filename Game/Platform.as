@@ -1,0 +1,1 @@
+﻿class Platform extends AreaMarker {	function onLoad() {		Game.register("solid_objects", this);		Game.register("level_objects", this);	}}

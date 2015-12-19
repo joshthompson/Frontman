@@ -1,0 +1,1 @@
+﻿stop();var game = new Game();game.init();this.onEnterFrame = function() {	game.onEnterFrame();};
